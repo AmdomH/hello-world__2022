@@ -7,3 +7,8 @@ This is a refresher course on gitHub
 | First | | And This is |
 | ------- | ---------- |
 | My code | Original code |
+
+| Syntax | Description |
+| --------- | ---------- |
+| Header | Title |
+| Paragraph | Text |
