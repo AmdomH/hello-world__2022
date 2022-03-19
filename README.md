@@ -4,7 +4,7 @@ This is a refresher course on gitHub
 
 *This seems working for now*
 
-| First | | And This is |
+| First   | And This is |
 | ------- | ---------- |
 | My code | Original code |
 
